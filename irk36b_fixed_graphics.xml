@@ -2,6 +2,8 @@
 <manifest>
   <remove-project name="platform/frameworks/base" base-rev="c77941fc94bb0a6102a09c160c45a8cb86a1e21c" />
   <project path="frameworks/base"
-   remote="github-ssh" name="lwys-trash-oct23/froyocomb-platform_frameworks_base" revision="ics-release_IRK36B_patch"
-   clone-depth="2" />
+   remote="github-ssh" name="lwys-trash-oct23/froyocomb-platform_frameworks_base"
+   revision="c77941fc94bb0a6102a09c160c45a8cb86a1e21c" />
+  <!-- revision="ics-release_IRK36B_patch"
+   clone-depth="2" />-->
 </manifest>

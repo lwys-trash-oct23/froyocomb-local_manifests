@@ -5,5 +5,5 @@
   <project path="device/ti/panda" name="device/ti/panda" revision="e18f53bb628dc513d6452127b09ccc0275a716d3" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="6dbcf2181152a81ab5f3bc5fa765288341a1b7ab" />
   <project path="hardware/invensense" name="platform/hardware/invensense" revision="c03325338444819ab2a129b94d9c982644624e47" />
-  <project path="hardware/ti/omap4" name="platform/hardware/ti/omap4xxx" revision="c322989ae6ff6769490828de1b5eda12b749cce9" />
+  <project path="hardware/ti/omap4" name="lwys-trash-oct23/froyocomb-android_hardware_ti_omap4xxx" remote="github-ssh" revision="IRK36B_hack" />
 </manifest>
