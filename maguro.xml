@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/samsung/maguro" name="device/samsung/maguro" revision="06d856703c93549cd5bcd7b88a179cd77f794864" />
+  <project path="device/samsung/tuna" name="device/samsung/tuna" revision="fb0c56aef472011fa7ada903d07c6854390085e5" />
+  <project path="device/ti/panda" name="device/ti/panda" revision="e18f53bb628dc513d6452127b09ccc0275a716d3" />
+  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="6dbcf2181152a81ab5f3bc5fa765288341a1b7ab" />
+  <project path="hardware/invensense" name="platform/hardware/invensense" revision="c03325338444819ab2a129b94d9c982644624e47" />
+  <project path="hardware/ti/omap4" name="platform/hardware/ti/omap4xxx" revision="c322989ae6ff6769490828de1b5eda12b749cce9" />
+</manifest>
